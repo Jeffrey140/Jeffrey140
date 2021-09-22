@@ -1,4 +1,4 @@
-- Hi, I’m <a href="https://www.linkedin.com/in/svdtooren/" rel="nofollow">Jeff</a> from the Netherlands👋
+- Hi, I’m <a href="https://www.linkedin.com/in/jeffrey-de-wit-van-huissteden-7646876/" rel="nofollow">Jeff</a> from the Netherlands👋
 - I’m interested in Tech Sourcing and all of its (recruitment) tools and resources 👀
 - I want to learn more about Tech Sourcing🕵️‍♀️
 -  It would be cool to connect with other Tech Sourcers📫
