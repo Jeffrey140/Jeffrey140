@@ -2,3 +2,4 @@
 - I’m interested in Tech Sourcing and all of its (recruitment) tools and resources 👀
 - I want to learn more about Tech Sourcing🕵️‍♀️
 -  It would be cool to connect with other Tech Sourcers📫
+-  I am also looking for a Senior Kubernetes Engineer located in the Netherlands. If you are interested let me know:-) And I tell you more😉
